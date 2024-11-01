@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "319535347690",
+    "project_id": "card-vault-6d7f8",
+    "storage_bucket": "card-vault-6d7f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319535347690:android:0f05dc6eafffb95acfa493",
+        "android_client_info": {
+          "package_name": "com.apsify.cardvault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319535347690-k1lclpqmdk60jak0ji7em1ufgof95pcb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.apsify.cardvault",
+            "certificate_hash": "a3702f35e014ec2389b73d917d25c830c3620014"
+          }
+        },
+        {
+          "client_id": "319535347690-k8qcmf0dn4cnfacitg22k3i143ug2ei9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGmysj5yPPc95EaEBJoDgkmNsmCDLkUEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319535347690-k8qcmf0dn4cnfacitg22k3i143ug2ei9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "319535347690-au550dv3g4q3off38lbj0k42ulao9o4r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.apsify.cardvault"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
